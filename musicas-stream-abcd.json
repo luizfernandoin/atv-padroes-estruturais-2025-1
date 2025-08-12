@@ -1,0 +1,46 @@
+{
+  "musicas": [
+    {
+      "titulo": "Garota de Ipanema",
+      "artista": "Tom Jobim",
+      "ano": 1962,
+      "genero": "Bossa Nova"
+    },
+    {
+      "titulo": "Águas de Março",
+      "artista": "Elis Regina",
+      "ano": 1974,
+      "genero": "MPB"
+    },
+    {
+      "titulo": "Chega de Saudade",
+      "artista": "João Gilberto",
+      "ano": 1959,
+      "genero": "Bossa Nova"
+    },
+    {
+      "titulo": "Construção",
+      "artista": "Chico Buarque",
+      "ano": 1971,
+      "genero": "MPB"
+    },
+    {
+      "titulo": "País Tropical",
+      "artista": "Jorge Ben Jor",
+      "ano": 1969,
+      "genero": "MPB"
+    },
+    {
+      "titulo": "Aquarela do Brasil",
+      "artista": "Ary Barroso",
+      "ano": 1939,
+      "genero": "Samba"
+    },
+    {
+      "titulo": "O Que é Que a Baiana Tem",
+      "artista": "Carmen Miranda",
+      "ano": 1939,
+      "genero": "Samba"
+    }
+  ]
+}

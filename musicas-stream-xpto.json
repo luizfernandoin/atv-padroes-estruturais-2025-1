@@ -1,0 +1,52 @@
+{
+  "musics": [
+    {
+      "title": "Bohemian Rhapsody",
+      "artist": "Queen",
+      "year": 1975,
+      "genre": "Rock"
+    },
+    {
+      "title": "Stairway to Heaven",
+      "artist": "Led Zeppelin",
+      "year": 1971,
+      "genre": "Rock"
+    },
+    {
+      "title": "Thriller",
+      "artist": "Michael Jackson",
+      "year": 1982,
+      "genre": "Pop"
+    },
+    {
+      "title": "Billie Jean",
+      "artist": "Michael Jackson",
+      "year": 1983,
+      "genre": "Pop"
+    },
+    {
+      "title": "Lose Yourself",
+      "artist": "Eminem",
+      "year": 2002,
+      "genre": "Hip Hop"
+    },
+    {
+      "title": "Sweet Child O' Mine",
+      "artist": "Guns N' Roses",
+      "year": 1987,
+      "genre": "Rock"
+    },
+    {
+      "title": "Dear Mama",
+      "artist": "2Pac",
+      "year": 1995,
+      "genre": "Hip Hop"
+    },
+    {
+      "title": "November Rain",
+      "artist": "Guns N' Roses",
+      "year": 1991,
+      "genre": "Rock"
+    }
+  ]
+}
