@@ -22,11 +22,12 @@ public class ClientHttpXPTO {
             HttpResponse<String> response = httpClient.send(songsRequest, HttpResponse.BodyHandlers.ofString());
 
             ObjectMapper objectMapper = new ObjectMapper();
-            List<Song> songsRetrieved = objectMapper.readValue(response.body(), objectMapper.getTypeFactory().constructCollectionType(List.class, Musica.class));
-            return songsRetrieved;
+            return objectMapper.readValue(
+                    response.body(),
+                    objectMapper.getTypeFactory().constructCollectionType(List.class, Song.class)
+            );
         } catch (URISyntaxException | IOException | InterruptedException e) {
             throw new RuntimeException(e);
         }
     }
-
 }

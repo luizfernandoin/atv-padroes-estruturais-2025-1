@@ -1,6 +1,7 @@
-package br.edu.ifpb.padroes.atv3.musicas.servico;
+package br.edu.ifpb.padroes.atv3.musicas.service;
 
 import br.edu.ifpb.padroes.atv3.musicas.abcd.Musica;
+import br.edu.ifpb.padroes.atv3.musicas.exception.MusicaNaoEncontradaException;
 
 public class TocadorMusica {
 
